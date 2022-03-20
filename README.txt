@@ -1,15 +1,15 @@
  ___________________________
 |TriFoxie/Mandlebrot-Set   X|___________________________________________________________________________________ ⎯⠀❐⠀⤬    
- <  >  O  :  |VPN| {}  {https://github.com/TriFoxie/Mandlebrot-Set                               }  {}  :  [] hearts ☰
+ <  >  O  :  |VPN| {}  {https://github.com/TriFoxie/Mandlebrot-Set                                     }  {}  :  [] ♥ ☰
 _______________________________________________________________________________________________________________________
  {Search or jump to...   |/|} Pull requests  Issues  Marketplace  Explore                                     ♠  +▼  O▼
  
  TriFoxie/TriFoxie {Public}                                                 {𓃑 Pin}  {<> Watch}  {Y Fork}  {Ξ Star | ▼}
 
-<> Code   lL Pull requests   arrow_forward Actions   {} Projects   {} Security   L Insights   ⁞ Settings
+<> Code   lL Pull requests   > Actions   {} Projects   {} Security   L Insights   ⁞ Settings
 -------
 
-  TriFoxie/{README.txt}in[main]
+  Mandlebrot-Set/{README.txt}in[main]
     
   ______________________________________________________________________________________________________
  | 1 MANDLEBROT SET
