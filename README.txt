@@ -12,11 +12,11 @@ ________________________________________________________________________________
   Mandlebrot-Set/{README.txt}in[main]
     
   ______________________________________________________________________________________________________
- | 1 MANDLEBROT SET
- | 2                   
- | 3 You've probably, no definitely, seen it befor but here it is again.
- | 4 Enjoy the cool pattern, this time in a different colour, woaaaahhh!
- | 5                                                                                                    
- | 6 Change the colour by going to Form1.cs, line 41, change the colors to what you want.
- | 7 First colour outside and second colour inside.
+ | 1 MANDLEBROT SET                                                                                     |
+ | 2                                                                                                    |
+ | 3 You've probably, no definitely, seen it befor but here it is again.                                |
+ | 4 Enjoy the cool pattern, this time in a different colour, woaaaahhh!                                |
+ | 5                                                                                                    |                   
+ | 6 Change the colour by going to Form1.cs, line 41, change the colors to what you want.               |
+ | 7 First colour outside and second colour inside.                                                     |
  | 8                                                                                                    
