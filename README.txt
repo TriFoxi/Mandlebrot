@@ -1,18 +1,18 @@
  ___________________________
-|TriFoxie/Mandlebrot-Set   X|___________________________________________________________________________________ ⎯⠀❐⠀⤬    
- <  >  O  :  |VPN| {}  {https://github.com/TriFoxie/Mandlebrot-Set                                     }  {}  :  [] ♥ ☰
+|TriFoxi/Mandlebrot-Set    X|___________________________________________________________________________________ ⎯⠀❐⠀⤬    
+ <  >  O  :  |VPN| {}  {https://github.com/TriFoxi/Mandlebrot                                          }  {}  :  [] ♥ ☰
 _______________________________________________________________________________________________________________________
  {Search or jump to...   |/|} Pull requests  Issues  Marketplace  Explore                                     ♠  +▼  O▼
  
- TriFoxie/TriFoxie {Public}                                                 {𓃑 Pin}  {<> Watch}  {Y Fork}  {Ξ Star | ▼}
+ TriFoxi/Mandlebrot {Public}                                                 {𓃑 Pin}  {<> Watch}  {Y Fork}  {Ξ Star | ▼}
 
 <> Code   lL Pull requests   > Actions   {} Projects   {} Security   L Insights   ⁞ Settings
 -------
 
-  Mandlebrot-Set/{README.txt}in[main]
+  Mandlebrot/{README.txt}in[main]
     
   ______________________________________________________________________________________________________
- | 1 MANDLEBROT SET                                                                                     |
+ | 1 MANDLEBROT                                                                                         |
  | 2                                                                                                    |
  | 3 You've probably, no definitely, seen it befor but here it is again.                                |
  | 4 Enjoy the cool pattern, this time in a different colour, woaaaahhh!                                |
